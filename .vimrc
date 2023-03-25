@@ -5,9 +5,9 @@ call plug#begin("~/.vim/plugged")
 	Plug 'kamykn/spelunker.vim'
 	Plug 'morhetz/gruvbox'
 	Plug 'neoclide/coc.nvim', {'branch': 'release'}
-	# Installed Coc libbraries:
-	# coc-tabnine, coc-clangd, coc-css,
-	# coc-java, coc-pyright
+	"Installed Coc libbraries:
+	"coc-tabnine, coc-clangd, coc-css,
+	"coc-java, coc-pyright
 	Plug 'ntpeters/vim-better-whitespace'
 	Plug 'preservim/nerdcommenter'
 	Plug 'preservim/nerdtree'
